@@ -1,5 +1,7 @@
 # Southern California Electric Vehicle Charging Station Network Analysis
  
+#### Authors: Jarvis Yuan, Justin Wong, Danny Ha, Jing Xu
+
 ## Introduction
 
 ![SoCal Charging Station Clustering](/plot/SoCalEVCS_kde_only_basemap.png)
